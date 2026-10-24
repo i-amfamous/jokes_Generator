@@ -1,4 +1,5 @@
 # Jokes Generator
+https://i-amfamous.github.io/jokes_Generator/
 
 A simple web app that fetches and displays random jokes from the JokeAPI. It is built with plain HTML, CSS, and JavaScript, and is designed to be easy to run locally without any setup or backend.
 
